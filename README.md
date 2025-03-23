@@ -1,4 +1,4 @@
-# **Car Sale Adverts Analysis 🚗📊**
+# **Car Sale Analysis 🚗📊**
 ### **Project Overview**
 
 This project is a school exercise aimed at analyzing a dataset of car sale advertisements. The goal is to extract meaningful insights from the dataset, including trends in car prices, mileage, brand popularity, and other key factors that influence car sales.
@@ -21,12 +21,12 @@ The dataset consists of multiple records of car sales, including attributes like
 - Statistical Analysis - Identifying key factors that influence car prices.
 
 ### **Technologies Used**
-#### Python 
-- Pandas (for data manipulation)
-- NumPy (for numerical computations)
-- Matplotlib & Seaborn (for data visualization)
-#### Jupyter Notebook
-#### GitHub
+- #### Python 
+  - Pandas (for data manipulation)
+  - NumPy (for numerical computations)
+  - Matplotlib & Seaborn (for data visualization)
+- #### Jupyter Notebook
+- #### GitHub
 
 ### Key Findings
 - **Luxury brands** like BMW and Mercedes tend to retain higher resale value.
